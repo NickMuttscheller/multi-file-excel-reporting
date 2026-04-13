@@ -1,0 +1,36 @@
+MULTI-FILE EXCEL REPORTING PIPELINE
+========================================
+
+Processing Summary
+----------------------------------------
+Total Files Found: 3
+Files Successfully Processed: 3
+Files Skipped: 0
+Raw Combined Row Count: 57
+Fully Empty Rows Removed: 0
+Duplicates Removed: 0
+Invalid Dates Removed: 18
+Invalid Numeric Rows Removed: 3
+Rows Missing Required Fields: 21
+Final Cleaned Row Count: 36
+Processed Files: sales_february.xlsx, sales_january.csv, sales_march.csv
+Skipped Files: None
+
+KPI Summary
+----------------------------------------
+Total Revenue: 103800.0
+Total Units Sold: 113
+Total Transactions: 36
+Average Revenue Per Transaction: 2883.33
+Top Salesperson: John Smith
+Top Salesperson Revenue: 39600.0
+Top Region: North
+Top Region Revenue: 39600.0
+Top Product: Laptop
+Top Product Revenue: 52800.0
+
+File-Level Processing Results
+----------------------------------------
+sales_february.xlsx | status=Processed | rows_read=16 | rows_after_cleaning=16 | notes=No issues detected
+sales_january.csv | status=Processed | rows_read=21 | rows_after_cleaning=8 | notes=invalid dates removed: 10; invalid numeric rows removed: 3; rows missing required fields: 13
+sales_march.csv | status=Processed | rows_read=20 | rows_after_cleaning=12 | notes=invalid dates removed: 8; rows missing required fields: 8

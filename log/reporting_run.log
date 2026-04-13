@@ -1,0 +1,30 @@
+2026-04-13 11:10:08,006 | INFO     | root | Starting multi-file Excel reporting pipeline
+2026-04-13 11:10:08,006 | INFO     | root | Base directory: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\multi_file_excel_reporting
+2026-04-13 11:10:08,006 | INFO     | root | Input directory: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\multi_file_excel_reporting\input
+2026-04-13 11:10:08,007 | INFO     | root | Output directory: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\multi_file_excel_reporting\output
+2026-04-13 11:10:08,007 | INFO     | root | Log file: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\multi_file_excel_reporting\log\reporting_run.log
+2026-04-13 11:10:08,012 | INFO     | root | Discovered supported input file: sales_february.xlsx
+2026-04-13 11:10:08,012 | INFO     | root | Discovered supported input file: sales_january.csv
+2026-04-13 11:10:08,013 | INFO     | root | Discovered supported input file: sales_march.csv
+2026-04-13 11:10:08,013 | INFO     | root | Reading file: sales_february.xlsx
+2026-04-13 11:10:08,070 | INFO     | root | Processed sales_february.xlsx | read=16 | empty_removed=0 | invalid_dates=0 | invalid_numeric=0 | missing_required=0 | duplicates_removed=0 | final_rows=16
+2026-04-13 11:10:08,070 | INFO     | root | Reading file: sales_january.csv
+2026-04-13 11:10:08,105 | INFO     | root | Processed sales_january.csv | read=21 | empty_removed=0 | invalid_dates=10 | invalid_numeric=3 | missing_required=13 | duplicates_removed=0 | final_rows=8
+2026-04-13 11:10:08,108 | INFO     | root | Reading file: sales_march.csv
+2026-04-13 11:10:08,131 | INFO     | root | Processed sales_march.csv | read=20 | empty_removed=0 | invalid_dates=8 | invalid_numeric=0 | missing_required=8 | duplicates_removed=0 | final_rows=12
+2026-04-13 11:10:08,309 | INFO     | root | Pipeline summary
+2026-04-13 11:10:08,309 | INFO     | root | Total files found: 3
+2026-04-13 11:10:08,309 | INFO     | root | Files successfully processed: 3
+2026-04-13 11:10:08,309 | INFO     | root | Files skipped: 0
+2026-04-13 11:10:08,309 | INFO     | root | Raw combined row count: 57
+2026-04-13 11:10:08,309 | INFO     | root | Fully empty rows removed: 0
+2026-04-13 11:10:08,309 | INFO     | root | Duplicates removed: 0
+2026-04-13 11:10:08,310 | INFO     | root | Invalid dates removed: 18
+2026-04-13 11:10:08,310 | INFO     | root | Invalid numeric rows removed: 3
+2026-04-13 11:10:08,310 | INFO     | root | Rows missing required fields: 21
+2026-04-13 11:10:08,310 | INFO     | root | Final cleaned row count: 36
+2026-04-13 11:10:08,310 | INFO     | root | Workbook created: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\multi_file_excel_reporting\output\sales_reporting_pack.xlsx
+2026-04-13 11:10:08,310 | INFO     | root | Clean CSV created: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\multi_file_excel_reporting\output\cleaned_master_data.csv
+2026-04-13 11:10:08,310 | INFO     | root | Data quality export created: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\multi_file_excel_reporting\output\data_quality_issues.csv
+2026-04-13 11:10:08,311 | INFO     | root | Summary report created: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\multi_file_excel_reporting\output\processing_summary.txt
+2026-04-13 11:10:08,311 | INFO     | root | Reporting pipeline completed successfully

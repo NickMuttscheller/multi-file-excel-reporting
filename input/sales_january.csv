@@ -1,0 +1,22 @@
+﻿date,region,salesperson,customer_name,product,category,units_sold,unit_price,revenue,status
+2/01/2025,North,John Smith,Acme Corp,Laptop,Electronics,3,1200,3600,Completed
+3/01/2025,South,Maria Lopez, Beta Ltd ,Phone,Electronics,5,800,4000,completed
+4/01/2025,East,David Chen,Omega Inc,Tablet,Electronics,2,600,1200,Completed
+5/01/2025,West,Sarah Khan,Delta Co,Laptop, Electronics ,1,1200,1200,Completed
+6/01/2025,North,John Smith,Acme Corp,Laptop,Electronics,3,1200,3600,Completed
+7/01/2025,South,,Gamma LLC,Phone,Electronics,4,800,3200,Completed
+8/01/2025,East,David Chen,Omega Inc,Tablet,Electronics,,600,,Completed
+9/01/2025,West,Sarah Khan,Delta Co,Tablet,Electronics,2,invalid,1200,Completed
+10/01/2025,North,John Smith,Acme Corp,Laptop,Electronics,3,1200,3600,Completed
+11/01/2025,South,Maria Lopez,Beta Ltd,Phone,Electronics,5,800,4000,Completed
+12/01/2025,East,David Chen,Omega Inc,Tablet,Electronics,2,600,1200,Completed
+13/01/2025,West,Sarah Khan,Delta Co,Laptop,Electronics,1,1200,1200,Completed
+14/01/2025,North,John Smith,Acme Corp,Laptop,Electronics,3,1200,3600,Completed
+15/01/2025,South,Maria Lopez,Beta Ltd,Phone,Electronics,5,800,4000,Completed
+16/01/2025,East,David Chen,Omega Inc,Tablet,Electronics,2,600,1200,Completed
+17/01/2025,West,Sarah Khan,Delta Co,Laptop,Electronics,1,1200,1200,Completed
+18/01/2025,North,John Smith,Acme Corp,Laptop,Electronics,3,1200,3600,Completed
+19/01/2025,South,Maria Lopez,Beta Ltd,Phone,Electronics,5,800,4000,Completed
+20/01/2025,East,David Chen,Omega Inc,Tablet,Electronics,2,600,1200,Completed
+21/01/2025,West,Sarah Khan,Delta Co,Laptop,Electronics,1,1200,1200,Completed
+,, , , , , , , ,

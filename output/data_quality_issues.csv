@@ -1,0 +1,43 @@
+date,region,salesperson,customer_name,product,category,units_sold,unit_price,revenue,status,source_file,rejection_reason
+,West,Sarah Khan,Delta Co,Laptop,Electronics,1,1200,1200,Completed,sales_january.csv,Invalid date
+,North,John Smith,Acme Corp,Laptop,Electronics,3,1200,3600,Completed,sales_january.csv,Invalid date
+,South,Maria Lopez,Beta Ltd,Phone,Electronics,5,800,4000,Completed,sales_january.csv,Invalid date
+,East,David Chen,Omega Inc,Tablet,Electronics,2,600,1200,Completed,sales_january.csv,Invalid date
+,West,Sarah Khan,Delta Co,Laptop,Electronics,1,1200,1200,Completed,sales_january.csv,Invalid date
+,North,John Smith,Acme Corp,Laptop,Electronics,3,1200,3600,Completed,sales_january.csv,Invalid date
+,South,Maria Lopez,Beta Ltd,Phone,Electronics,5,800,4000,Completed,sales_january.csv,Invalid date
+,East,David Chen,Omega Inc,Tablet,Electronics,2,600,1200,Completed,sales_january.csv,Invalid date
+,West,Sarah Khan,Delta Co,Laptop,Electronics,1,1200,1200,Completed,sales_january.csv,Invalid date
+,,,,,, , , ,,sales_january.csv,Invalid date
+2025-08-01,East,David Chen,Omega Inc,Tablet,Electronics,,600.0,,Completed,sales_january.csv,Invalid numeric values
+2025-09-01,West,Sarah Khan,Delta Co,Tablet,Electronics,2.0,,1200.0,Completed,sales_january.csv,Invalid numeric values
+,,,,,,,,,,sales_january.csv,Invalid numeric values
+2025-07-01,South,,Gamma Llc,Phone,Electronics,4.0,800.0,3200.0,Completed,sales_january.csv,Missing required fields
+2025-08-01,East,David Chen,Omega Inc,Tablet,Electronics,,600.0,,Completed,sales_january.csv,Missing required fields
+2025-09-01,West,Sarah Khan,Delta Co,Tablet,Electronics,2.0,,1200.0,Completed,sales_january.csv,Missing required fields
+,West,Sarah Khan,Delta Co,Laptop,Electronics,1.0,1200.0,1200.0,Completed,sales_january.csv,Missing required fields
+,North,John Smith,Acme Corp,Laptop,Electronics,3.0,1200.0,3600.0,Completed,sales_january.csv,Missing required fields
+,South,Maria Lopez,Beta Ltd,Phone,Electronics,5.0,800.0,4000.0,Completed,sales_january.csv,Missing required fields
+,East,David Chen,Omega Inc,Tablet,Electronics,2.0,600.0,1200.0,Completed,sales_january.csv,Missing required fields
+,West,Sarah Khan,Delta Co,Laptop,Electronics,1.0,1200.0,1200.0,Completed,sales_january.csv,Missing required fields
+,North,John Smith,Acme Corp,Laptop,Electronics,3.0,1200.0,3600.0,Completed,sales_january.csv,Missing required fields
+,South,Maria Lopez,Beta Ltd,Phone,Electronics,5.0,800.0,4000.0,Completed,sales_january.csv,Missing required fields
+,East,David Chen,Omega Inc,Tablet,Electronics,2.0,600.0,1200.0,Completed,sales_january.csv,Missing required fields
+,West,Sarah Khan,Delta Co,Laptop,Electronics,1.0,1200.0,1200.0,Completed,sales_january.csv,Missing required fields
+,,,,,,,,,,sales_january.csv,Missing required fields
+,North,John Smith,Acme Corp,Laptop,Electronics,4,1200,4800,Completed,sales_march.csv,Invalid date
+,South,Maria Lopez,Beta Ltd,Phone,Electronics,6,800,4800,Completed,sales_march.csv,Invalid date
+,East,David Chen,Omega Inc,Tablet,Electronics,3,600,1800,Completed,sales_march.csv,Invalid date
+,West,Sarah Khan,Delta Co,Laptop,Electronics,2,1200,2400,Completed,sales_march.csv,Invalid date
+,North,John Smith,Acme Corp,Laptop,Electronics,4,1200,4800,Completed,sales_march.csv,Invalid date
+,South,Maria Lopez,Beta Ltd,Phone,Electronics,6,800,4800,Completed,sales_march.csv,Invalid date
+,East,David Chen,Omega Inc,Tablet,Electronics,3,600,1800,Completed,sales_march.csv,Invalid date
+,West,Sarah Khan,Delta Co,Laptop,Electronics,2,1200,2400,Completed,sales_march.csv,Invalid date
+,North,John Smith,Acme Corp,Laptop,Electronics,4,1200,4800,Completed,sales_march.csv,Missing required fields
+,South,Maria Lopez,Beta Ltd,Phone,Electronics,6,800,4800,Completed,sales_march.csv,Missing required fields
+,East,David Chen,Omega Inc,Tablet,Electronics,3,600,1800,Completed,sales_march.csv,Missing required fields
+,West,Sarah Khan,Delta Co,Laptop,Electronics,2,1200,2400,Completed,sales_march.csv,Missing required fields
+,North,John Smith,Acme Corp,Laptop,Electronics,4,1200,4800,Completed,sales_march.csv,Missing required fields
+,South,Maria Lopez,Beta Ltd,Phone,Electronics,6,800,4800,Completed,sales_march.csv,Missing required fields
+,East,David Chen,Omega Inc,Tablet,Electronics,3,600,1800,Completed,sales_march.csv,Missing required fields
+,West,Sarah Khan,Delta Co,Laptop,Electronics,2,1200,2400,Completed,sales_march.csv,Missing required fields
