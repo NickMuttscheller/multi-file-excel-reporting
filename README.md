@@ -103,16 +103,17 @@ log/reporting_run.log
 
 scripts/
 
-└── multi_file_excel_reporting/ 
-    ├── input/
+    └── multi_file_excel_reporting/ 
+  
+        ├── input/
+ 
+        ├── output/
     
-    ├── output/
+        ├── log/
     
-    ├── log/
+        ├── README.md
     
-    ├── README.md
-    
-    └── reporting_pipeline.py
+        └── reporting_pipeline.py
 ---
 
 ## Input Data Requirements
