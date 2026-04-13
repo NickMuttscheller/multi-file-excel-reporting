@@ -102,18 +102,13 @@ log/reporting_run.log
 ## Project Structure
 
 scripts/
+ └── multi_file_excel_reporting/ 
+            ├── input/
+            ├── output/
+            ├── log/
+            ├── README.md
+            └── reporting_pipeline.py
 
-    └── multi_file_excel_reporting/ 
-  
-        ├── input/
- 
-        ├── output/
-    
-        ├── log/
-    
-        ├── README.md
-    
-        └── reporting_pipeline.py
 ---
 
 ## Input Data Requirements
