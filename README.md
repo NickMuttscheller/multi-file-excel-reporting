@@ -114,8 +114,7 @@ scripts/
     ├── README.md
     
     └── reporting_pipeline.py
-    
-
+```
 ---
 
 ## Input Data Requirements
